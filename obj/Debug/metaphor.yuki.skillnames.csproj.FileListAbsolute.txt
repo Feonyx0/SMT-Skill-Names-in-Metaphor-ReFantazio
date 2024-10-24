@@ -1,0 +1,15 @@
+D:\Modding\Persona Modding\Reloaded-II\Mods\metaphor.yuki.skillnames\Preview.png
+D:\Modding\Persona Modding\Reloaded-II\Mods\metaphor.yuki.skillnames\ModConfig.json
+D:\Modding\Persona Modding\Reloaded-II\Mods\metaphor.yuki.skillnames\metaphor.yuki.skillnames.deps.json
+D:\Modding\Persona Modding\Reloaded-II\Mods\metaphor.yuki.skillnames\metaphor.yuki.skillnames.dll
+D:\Modding\Persona Modding\Reloaded-II\Mods\metaphor.yuki.skillnames\metaphor.yuki.skillnames.pdb
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.csproj.AssemblyReference.cache
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.AssemblyInfoInputs.cache
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.AssemblyInfo.cs
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.csproj.CoreCompileInputs.cache
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.5F4A80E4.Up2Date
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.dll
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\refint\metaphor.yuki.skillnames.dll
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\metaphor.yuki.skillnames.pdb
+C:\Users\kauff\source\repos\metaphor.yuki.skillnames\metaphor.yuki.skillnames\obj\Debug\ref\metaphor.yuki.skillnames.dll

@@ -1,0 +1,75 @@
+{
+  "ModId": "metaphor.yuki.skillnames",
+  "ModName": "SMT Skill Names",
+  "ModAuthor": "Yuki",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Changes out the arbitrary Metaphor attack names for SMT attack names",
+  "ModDll": "metaphor.yuki.skillnames.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/metaphor.yuki.skillnames.dll",
+  "ModR2RManagedDll64": "x64/metaphor.yuki.skillnames.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "metaphor.yuki.skillnames.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 549960
+    },
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "mrfpc.modloader": {
+          "Config": {
+            "UserName": "DeathChaos25",
+            "RepositoryName": "mrfpc.modloader",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "mrfpc.modloader.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "crifs.v2.hook": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "mrfpc.modloader",
+    "crifs.v2.hook"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "metaphor.exe"
+  ],
+  "ProjectUrl": ""
+}

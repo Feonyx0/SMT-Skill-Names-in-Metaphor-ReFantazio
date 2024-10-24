@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljqXQHEaTN4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kauff\\source\\repos\\metaphor.yuki.skillnames\\metaphor.yuki.skillnames\\metaphor.yuki.skillnames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauff\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
